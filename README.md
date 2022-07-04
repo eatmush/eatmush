@@ -5,7 +5,7 @@ I'm a data analyst and I'm starting to build my presence on GitHub!
 <a href="https://www.linkedin.com/in/matcastella/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="matheuscastella-linkedin" height="32" /></a>
 <a href="https://www.instagram.com/eatmush/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="matheuscastella-instagram" height="32" /></a>
 
-[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eatmush&theme=dark)](https://github.com/eatmush/github-readme-stats)
+[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eatmush&theme=dark&hide_rank=TRUE)](https://github.com/eatmush/github-readme-stats)
 
 <!--
 **eatmush/eatmush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
