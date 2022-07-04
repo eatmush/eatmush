@@ -1,7 +1,7 @@
 ## Hi there! I’m [Matheus](https://eatmush.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 I'm a data analyst and I'm starting to build my presence on GitHub!
 
-[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eatmush&theme=radical)](https://github.com/eatmush/github-readme-stats)
+[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eatmush&theme=onedark)](https://github.com/eatmush/github-readme-stats)
 
 <!--
 **eatmush/eatmush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
