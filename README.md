@@ -2,7 +2,7 @@
 I'm a data analyst and I'm starting to build my presence on GitHub!
 
 #### 🔗 Connect with me
-<a href="https://www.linkedin.com/in/matcastella/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[ICON SLUG].svg" alt="matheuscastella" height="32" /></a>
+<a href="https://www.linkedin.com/in/matcastella/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="matheuscastella" height="32" /></a>
 
 [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eatmush&theme=dark)](https://github.com/eatmush/github-readme-stats)
 
