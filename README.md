@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there! I’m [Matheus](https://eatmush.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+I'm a data analyst and I'm starting to build my presence on GitHub!
 
 <!--
 **eatmush/eatmush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
