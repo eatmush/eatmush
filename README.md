@@ -2,9 +2,9 @@
 I'm a data analyst and I'm starting to build my presence on GitHub!
 
 #### 🔗 Connect with me
-<a href="https://www.linkedin.com/in/matcastella/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheuscastella" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matcastella/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[ICON SLUG].svg" alt="matheuscastella" height="32" /></a>
 
-[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eatmush&theme=onedark)](https://github.com/eatmush/github-readme-stats)
+[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eatmush&theme=dark)](https://github.com/eatmush/github-readme-stats)
 
 <!--
 **eatmush/eatmush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
