@@ -1,7 +1,7 @@
 ## Hi there! I’m [Matheus](https://eatmush.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 I'm a data analyst and I'm starting to build my presence on GitHub!
 
-[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eatmush&theme=dark&hide_rank=TRUE)](https://github.com/eatmush/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eatmush&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔗 Connect with me
 <a href="https://www.linkedin.com/in/matcastella/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="linkedin-icon" height="32" /></a>
