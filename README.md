@@ -1,4 +1,4 @@
-## Hi, I'm [Matheus](https://eatmush.github.io/)
+## Hi, I'm Matheus
 
 Analytics Engineer / Data Analyst in **Retail Media / Ad-tech** (5+ yrs).
 I build and own dbt + Snowflake pipelines, run versioned migrations and write
